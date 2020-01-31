@@ -1,6 +1,6 @@
 ## Hackernews Clone
 
-I made this React app while learning **GraphQL/Apollo** by following the intstructions from [howtographql.com](howtographql.com)
+I made this React app while learning **GraphQL/Apollo** by following the instructions from [howtographql.com](howtographql.com)
 
 ### Home Page
 ![image](https://user-images.githubusercontent.com/40203710/70945226-036cea80-2055-11ea-8575-addc42889d6d.png)
